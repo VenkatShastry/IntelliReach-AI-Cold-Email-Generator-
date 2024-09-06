@@ -25,7 +25,7 @@ Use portfolios from various tech stacks (e.g., Python, Django, React, MongoDB) t
 **Setup and Installation**
 
 **Clone the repository.**
-git clone [https://github.com/your-repo/cold-email-generator.git](https://github.com/VenkatShastry/IntelliReach-AI-Cold-Email-Generator-.git)
+git clone [https://github.com/VenkatShastry/IntelliReach-AI-Cold-Email-Generator-.git]
 
 **Install the necessary dependencies.**
 pip install -r requirements.txt
